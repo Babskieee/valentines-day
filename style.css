@@ -18,14 +18,14 @@ main{
 .gif{
     padding: 1%;
     display: flex;
-    width: 500px;
-    height: 500px;
+    width: 400px;
+    height: 400px;
     overflow: hidden;
 }
 
 .tenor-gif-embed{
-    width: 500px;
-    height: 500px;
+    width: 400px;
+    height: 400px;
 }
 
 .message{
