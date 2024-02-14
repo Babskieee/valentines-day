@@ -16,6 +16,7 @@ main{
 }
 
 .gif{
+    padding: 1%;
     display: flex;
     width: 500px;
     height: 500px;
@@ -30,5 +31,5 @@ main{
 .message{
     margin-top: 5%;
     font-family: 'Courier New', Courier, monospace;
-    font-size: larger;
+    font-size: 50px;
 }
